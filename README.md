@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jobins John 👋</h1>
 <p align="center">
-    Passionate iOS Developer | Swift | SwiftUI | UIKit | AWS Enthusiast | Open-Source Contributor
+    Innovative iOS Developer & Product Manager | Swift | SwiftUI | UIKit | AWS | Open-Source Advocate
 </p>
 
 <p align="center">
@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/SwiftUI-%23007ACC.svg?style=for-the-badge&logo=apple&logoColor=white" alt="SwiftUI"/>
     <img src="https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
     <img src="https://img.shields.io/badge/CocoaPods-%23E05D6F.svg?style=for-the-badge&logo=cocoapods&logoColor=white" alt="CocoaPods"/>
+    <img src="https://img.shields.io/badge/Swift_Package_Manager-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Package Manager"/>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
@@ -16,15 +17,17 @@
 
 ## 🌐 About Me
 
-I'm Jobins John, an iOS Developer driven by a passion for creating seamless user experiences through high-quality, innovative applications. With a toolbox filled with Swift, SwiftUI, and UIKit, I design and develop robust iOS apps that users love. 
+I'm Jobins John, an iOS Developer and Product Manager with a zeal for crafting seamless user experiences and leading innovative app development projects. My technical toolbox is rich with Swift, SwiftUI, UIKit, and a keen understanding of cloud computing with AWS. 
 
-Exploring new technologies is more than a hobby; it's a part of my continuous learning journey. My venture into AWS has expanded my skill set, allowing me to leverage cloud computing's power in my projects. Additionally, I take pride in contributing to open-source projects, which helps me refine my skills and give back to the community.
+My role extends beyond development; as a Product Manager, I blend technical acuity with strategic leadership to guide cross-functional teams towards creating impactful and user-centric mobile applications. My journey into AWS and Swift Package Manager has broadened my abilities, enabling me to incorporate cutting-edge technologies and manage dependencies more efficiently.
 
-## 🚀 My Technical Arsenal
+## 🚀 My Technical and Leadership Arsenal
 
 - **Programming Languages & Frameworks:** Swift, SwiftUI, UIKit
-- **Development Tools:** Xcode, CocoaPods
+- **Development Tools:** Xcode, CocoaPods, Swift Package Manager
 - **Cloud Computing:** AWS
+- **Project Management:** Agile, Scrum, Lean methodologies
+- **Product Strategy:** Market analysis, User experience design, Feature prioritization
 
 ## 💹 My GitHub Stats
 
@@ -43,21 +46,4 @@ Exploring new technologies is more than a hobby; it's a part of my continuous le
     <a href="https://twitter.com/jobins_john"><img src="https://img.shields.io/twitter/follow/jobins_john?style=social" alt="Twitter Followers"></a>
 </p>
 
-Join me on my tech journey on GitHub and Twitter. Let's innovate and create amazing things together!
-
-
-
-<!--
-**jobinsjohn/jobinsjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Join me on my dual-path tech journey on GitHub and Twitter. Whether it's diving deep into code or steering product visions to reality, let's innovate and create amazing things together!
